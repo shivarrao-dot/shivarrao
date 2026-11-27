@@ -1,3 +1,0 @@
-Place your artist portrait in this folder as artist-photo.jpg.
-The website reads this image path from CONFIG/config.js -> artist.photo.
-You can change the filename/path in the config file.
